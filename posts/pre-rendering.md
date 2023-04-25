@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering'
+title: 'Two Forms of Pre-rendering 我加了中文标题'
 date: '2020-01-01'
 ---
 
